@@ -11,7 +11,7 @@ public class Marca {
 		this.nombre = nombre;
 	}
 	
-	public String getMarca() {
+	public String getNombre() {
 		return this.nombre;
 	}
 }
