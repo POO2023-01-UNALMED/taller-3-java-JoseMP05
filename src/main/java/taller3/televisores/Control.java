@@ -13,7 +13,7 @@ public class Control {
 		return tv;
 	}
 	
-	//Metódos
+	//Metodos
 	public void enlazar(TV tv) {
 		this.tv = tv;
 		tv.setControl(this);
